@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("Grif")]
+[assembly: AssemblyTitle("RodKernelParameters")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Grif")]
+[assembly: AssemblyProduct("RodKernelParameters")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("859bf623-2768-4531-9c4b-0915a53e7616")]
+[assembly: Guid("c3ed90a5-5bb5-44c6-912e-af6caa124e68")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

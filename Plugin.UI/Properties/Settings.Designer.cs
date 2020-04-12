@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Grif.Properties
+namespace Plugin.UI.Properties
 {
 
 
